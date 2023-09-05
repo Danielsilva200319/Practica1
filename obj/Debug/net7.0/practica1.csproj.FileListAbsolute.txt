@@ -1,0 +1,14 @@
+C:\Users\APM02-63\Desktop\C#sharp\practica1\bin\Debug\net7.0\practica1.exe
+C:\Users\APM02-63\Desktop\C#sharp\practica1\bin\Debug\net7.0\practica1.deps.json
+C:\Users\APM02-63\Desktop\C#sharp\practica1\bin\Debug\net7.0\practica1.runtimeconfig.json
+C:\Users\APM02-63\Desktop\C#sharp\practica1\bin\Debug\net7.0\practica1.dll
+C:\Users\APM02-63\Desktop\C#sharp\practica1\bin\Debug\net7.0\practica1.pdb
+C:\Users\APM02-63\Desktop\C#sharp\practica1\obj\Debug\net7.0\practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-63\Desktop\C#sharp\practica1\obj\Debug\net7.0\practica1.AssemblyInfoInputs.cache
+C:\Users\APM02-63\Desktop\C#sharp\practica1\obj\Debug\net7.0\practica1.AssemblyInfo.cs
+C:\Users\APM02-63\Desktop\C#sharp\practica1\obj\Debug\net7.0\practica1.csproj.CoreCompileInputs.cache
+C:\Users\APM02-63\Desktop\C#sharp\practica1\obj\Debug\net7.0\practica1.dll
+C:\Users\APM02-63\Desktop\C#sharp\practica1\obj\Debug\net7.0\refint\practica1.dll
+C:\Users\APM02-63\Desktop\C#sharp\practica1\obj\Debug\net7.0\practica1.pdb
+C:\Users\APM02-63\Desktop\C#sharp\practica1\obj\Debug\net7.0\practica1.genruntimeconfig.cache
+C:\Users\APM02-63\Desktop\C#sharp\practica1\obj\Debug\net7.0\ref\practica1.dll
